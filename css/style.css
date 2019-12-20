@@ -1,0 +1,41 @@
+@charset "utf-8";
+body { background-color: red;
+}
+img { float: left;
+}
+h1 {color: yellow;
+	background-color: black;
+}
+p {background-color: yellow;
+}
+header {list-style-type: none;
+		margin:0;
+		padding: 0;
+		overflow: hidden;
+		background-color: white;
+		position: fixed;
+		top: 0;
+		width: 100%;
+}
+rollover {float: left;
+		border-right: 1px solid #22E70B
+}
+a { display: block;
+	color: #0814F1;
+	padding: 14px 16px;
+	text-align: center;
+	text-decoration: underline;
+}
+a:hover { background-color: #F70000
+}
+ul { list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+active { background-color: #EFFB2D
+}
+link { text-decoration: underline;
+		color: aqua;
+		text-align: left;
+}
